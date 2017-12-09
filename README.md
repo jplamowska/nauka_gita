@@ -16,4 +16,6 @@ Pierwszy projekt git
   ```
   curl.google.com
   ```
-  
+  ## KOCHAM gita
+
+    Wspaniała sprawa
