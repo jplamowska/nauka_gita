@@ -16,6 +16,9 @@ Pierwszy projekt git
   ```
   curl.google.com
   ```
+  ## Deploy
+  Komponent jest instalowany na instancji AWS.
+  
   ## KOCHAM gita
 
     Wspaniała sprawa
