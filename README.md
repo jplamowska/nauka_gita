@@ -18,7 +18,7 @@ Pierwszy projekt git
   ```
   ## Deploy
   Komponent jest instalowany na instancji AWS.
-  
+  Lubię GITa jest wspaniały i bardzo prosty.
   ## KOCHAM gita
 
     Wspaniała sprawa
